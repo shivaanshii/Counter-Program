@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+#bigContBut{
+    border: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 400px;
+    background-color: pink;
+}
+#contBut{
+    height: 55px;
+    width: 35s0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+#countLabel{
+    font-size: 40px;
+}
+.but{
+    background-color: rgb(250, 235, 215);
+    margin: 0.5em;
+    padding: 0.1em;
+    font-size: large;  
+}
+.but:hover{
+    background-color: rgb(240, 217, 186);
+}
