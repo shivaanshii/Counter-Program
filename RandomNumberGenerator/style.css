@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(252, 250, 134, 0.658);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    margin: 0;
+    height: 100vh;
+}
+#heading{
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(360deg, rgb(235, 235, 52), rgb(5, 255, 5));
+    border: 1px solid black;
+    border-radius: 20px;
+}
+#myButton{
+    height: 100px;
+    width: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    background-color: yellow;
+    border-radius: 20px;
+}
+#myButton:hover{
+    background-color: rgba(235, 235, 4, 0.868);
+}
