@@ -13,7 +13,7 @@ body{
 #textguess{
     background-color:  rgb(255, 0, 238);
     color: white;
-    font-size:1.2rem;
+    font-size:2rem;
     text-align: center;
 }
 #myButton{
@@ -23,7 +23,7 @@ body{
     font-size: 3rem;
     background-color: rgb(255, 0, 238);
     border-radius: 20px;
-    color: rgb(227, 214, 214);
+    color: white;
 }
 #myButton:hover{
     background-color:purple
